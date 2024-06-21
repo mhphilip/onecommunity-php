@@ -1,12 +1,12 @@
 {
-    "name": "onecommunity/client",
+    "name": "mhphilip/onecommunity-php",
     "type": "library",
-    "description": "PHP client to access the One Community API.",
+    "description": "PHP client to access the One Community API. w/ Laravel 11 support",
     "keywords": [
         "onecommunity",
         "api"
     ],
-    "homepage": "https://github.com/emolifeconnect/onecommunity-php",
+    "homepage": "https://github.com/mhphilip/onecommunity-php",
     "license": "MIT",
     "authors": [
         {
